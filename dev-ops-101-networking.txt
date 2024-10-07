@@ -1,0 +1,27 @@
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=58 time=1.58 ms
+64 bytes from 8.8.8.8: icmp_seq=2 ttl=58 time=0.590 ms
+64 bytes from 8.8.8.8: icmp_seq=3 ttl=58 time=0.516 ms
+HTTP/2 200 
+content-encoding: gzip
+accept-ranges: bytes
+age: 335560
+cache-control: max-age=604800
+content-type: text/html; charset=UTF-8
+date: Mon, 07 Oct 2024 15:55:50 GMT
+etag: "3147526947+gzip"
+expires: Mon, 14 Oct 2024 15:55:50 GMT
+last-modified: Thu, 17 Oct 2019 07:18:26 GMT
+server: ECAcc (dcd/7D2C)
+x-cache: HIT
+content-length: 648
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	example.com
+Address: 93.184.215.14
+Name:	example.com
+Address: 2606:2800:21f:cb07:6820:80da:af6b:8b2c
+
